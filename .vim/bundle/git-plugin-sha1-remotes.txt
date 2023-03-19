@@ -1,0 +1,11 @@
+apprentice-theme/59ad136/https://github.com/romainl/Apprentice.git
+auto-pairs/39f06b8/https://github.com/jiangmiao/auto-pairs.git
+lightline.vim/b1e91b4/https://github.com/itchyny/lightline.vim.git
+tcomment_vim/b4930f9/https://github.com/tomtom/tcomment_vim.git
+vim-repeat/24afe92/https://github.com/tpope/vim-repeat.git
+vim-sleuth/1cc4557/https://github.com/tpope/vim-sleuth.git
+vim-surround/3d188ed/https://github.com/tpope/vim-surround.git
+nginx.vim/8a42e93/https://github.com/chr4/nginx.vim.git
+Jenkinsfile-vim-syntax/0d05729/https://github.com/martinda/Jenkinsfile-vim-syntax.git
+scss-syntax.vim/bda22a9/https://github.com/cakebaker/scss-syntax.vim.git
+rust.vim/889b9a7/https://github.com/rust-lang/rust.vim.git

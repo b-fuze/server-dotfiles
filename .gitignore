@@ -1,0 +1,8 @@
+.rustup
+.cargo
+.cache
+.ssh
+.bash_history
+.profile
+.viminfo
+*.swp
